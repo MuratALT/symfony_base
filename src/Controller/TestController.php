@@ -10,5 +10,6 @@ class TestController
     public function number()
     {
         dd('welcome! ');
+        echo 'welcome! ';
     }
 }
